@@ -22,10 +22,7 @@ Smartphone:
 
 ## 3. Network Diagram
 
-```
-                [ Internet ]
-          <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b8600e3-8b83-4b26-b161-b409b6679365" />
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1b8600e3-8b83-4b26-b161-b409b6679365" />
+``
            |
                172.20.6.1
                [ Router ]
